@@ -1,0 +1,17 @@
+{
+  "name": "InventoryTrack",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-cli": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-uglify": "*",
+    "coffee-script": "~1.6.3",
+    "wd": "~0.1.5",
+    "underscore": "~1.5.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://bitbucket.com/"
+  }
+}

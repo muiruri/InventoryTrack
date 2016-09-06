@@ -1,0 +1,23 @@
+html { overflow-y: scroll; }
+body {
+    font-size: 12px;
+    font-family: Verdana,Arial,sans-serif;
+    height:100%;
+    width: 100%;
+}
+
+.content {
+    height: -moz-calc(100% - (150px));
+    height: -webkit-calc(100% - (150px));
+    height: calc(100% - (150px));
+    min-height: 50px;
+    padding-bottom: 20px;
+}
+
+.login-form {
+    margin-top: 10%;
+}
+
+.table-margin-top {
+    margin-bottom: 5px;
+}

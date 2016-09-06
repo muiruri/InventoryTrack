@@ -1,0 +1,12 @@
+{
+  "name": "publishersubscriber",
+  "version": "1.0.0",
+  "description": "A sample full stack app",
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  },
+  "devDependencies": {},
+  
+  "author": "John Muiruri",
+  "license": "ISC"
+}
